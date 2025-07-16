@@ -1,1 +1,1 @@
-# wheat-coccinellid-detection-colab
+# colab-wheat-coccinellid-Detection
