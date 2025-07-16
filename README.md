@@ -68,9 +68,7 @@ xiv) Use the best.pt to test on your validation and test datasets.
 
 xv) Use "matplotlib" library to plot your results using validation and test datasets. 
 
-By this time, you are aware ofhave already visualized the results and 
-
-In this research, coccinellid detection was successfully performed on wheat plant images using the YOLOv8m model. You were also able to see the performance of model in the detection of coccinellid in maze plants.
+By this time, you have the result of the evaluation metrics. In this research, coccinellid detection was successfully performed on wheat plant images using the YOLOv8m model. You were also able to see the performance of model in the detection of coccinellid in maze plants.
 
 
 
