@@ -3,7 +3,9 @@
 
 ## How to start with Colab?
 
-i) create a google account
+i) create a google account. Install git from https://git-scm.com/downloads/win and clone the https://github.com/SauravUpadhyaya/wheat-coccinellid-detection-colab.git repository. To clone the repository, open terminal, goto your home and create a new folder folder. 
+
+Use git clone https://github.com/SauravUpadhyaya/wheat-coccinellid-detection-colab.git to use this tutorial as a reference.
 
 ii) Access the Google colab page (https://colab.research.google.com/)
 
@@ -77,6 +79,8 @@ By this time, you have the result of the evaluation metrics. In this research, c
 If you have GPU in your local machine, follow the below tutorial for better performance and higher efficiency.
 
 https://github.com/SauravUpadhyaya/wheat-coccinellid-detection-project
+
+Note: Use git clone https://github.com/SauravUpadhyaya/wheat-coccinellid-detection-project.git to use this tutorial as a reference.
 
 https://www.youtube.com/watch?v=Rn2S1SFObn4
 
