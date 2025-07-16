@@ -8,8 +8,8 @@ i) create a google account
 ii) Access the Google colab page (https://colab.research.google.com/)
 
     You should be able to see the below screen. Click on the "New notebook button". 
-    ![Create new notebook](image.png) 
 
+![alt text](<Screenshot 2025-07-16 122128.png>)
 
 iii) As soon as you create a new notebook, you will see notebook where you can start coding. 
 
