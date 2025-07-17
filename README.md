@@ -86,7 +86,7 @@ Note: Use git clone https://github.com/SauravUpadhyaya/wheat-coccinellid-detecti
 
 https://www.youtube.com/watch?v=Rn2S1SFObn4
 
-Also, if learners are interested in using GPU, I highly encourage learners to reach out to their supervisors/professors to see if they are able to provide you the resources. 
+Also, if learners are interested in using GPU, I highly encourage them to reach out to their supervisors and professors to see if they are able to provide you the resources. 
 
 Keep learning, keep pushing, keep believing in yourself!
 
