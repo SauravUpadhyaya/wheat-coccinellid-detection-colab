@@ -55,6 +55,8 @@ x) If everthing is good till this stage and you are comfortable to move forward,
 
 xi) In (x) step, I talked about model. In this project, we will be using pre-trained YOLOv8m model for our dataset. Use "ultralytics" to import "YOLO". Use " YOLO('yolov8m.pt')" to load a pre-trained model YOLOv8m and declare the necessary parameters before training.  
 
+Note: If the Colab is crashing and you are in CPU/GPU, use 'YOLOv8n.pt' with smaller number of epochs instead.
+
 Refer to https://docs.ultralytics.com/modes/train/#introduction to know more about training.
 
 xii) During training time, try to check the results of each epcoch just to see whether there is overfitting/underfitting or not. In each epoch, metrics such as classification loss (cls_loss), bounding box loss (box_loss), dfl_loss, precision, recall,  mean average precision at IOU 0.5 (mAP50) and mAP50-95 were monitored to check the model’s learning progress and detect overfitting/underfitting scenarios throughout the training. 
@@ -83,6 +85,10 @@ https://github.com/SauravUpadhyaya/wheat-coccinellid-detection-project
 Note: Use git clone https://github.com/SauravUpadhyaya/wheat-coccinellid-detection-project.git to use this tutorial as a reference.
 
 https://www.youtube.com/watch?v=Rn2S1SFObn4
+
+Also, if learners are interested in using GPU, I highly encourage learners to reach out to their supervisors/professors to see if they are able to provide you the resources. 
+
+Keep learning, keep pushing, keep believing in yourself!
 
 Thank you!
 
